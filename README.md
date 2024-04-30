@@ -1,5 +1,5 @@
 # MaskCom
-An error-resilient visual data communication systems over wireless channels
+An error-resilient visual data communication systems over wireless channels.
 
 Official Pytorch implementation for "MaskCom: Visual Communication Made Efficient and Robust with Masked Transformer".
 
